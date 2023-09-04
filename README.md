@@ -8,6 +8,6 @@ This code runs on a small subset (24347 rows) of full dataset (1.6 million rows)
 **Notebook 1: Cleaning data** 
 This notebook was simply the initial cleaning the data
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/AnomalyDetection-Netflow-UNSW-NB15/blob/main//PreparedAndModel.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/AnomalyDetection-Netflow-UNSW-NB15/blob/main//PrepareAndModel.ipynb)
 **Notebook 2: Preparation and modeling** 
 This notebook prepares the dataset by splitting it as well as preprocessing the features separately. Lastly feature selection methods are used and several modeling techniques are applied.
