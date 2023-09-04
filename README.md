@@ -1,5 +1,5 @@
 # AnomalyDetection-Netflow-UNSW-NB15
-These two notebooks are a part of my master thesis which was to use feature selection techniques on a labelled netflow-based dataset in order to detect anomalies within a network dataset.
+These two notebooks were a part of my master thesis on anomaly detection within network data. I was able to use feature selection techniques on a large and labelled netflow-based dataset in order to detect anomalies in the dataset.
 
 **NOTE** 
 This code runs on a small subset (24347 rows) of full dataset (1.6 million rows). The full dataset is available and can be found online. 
